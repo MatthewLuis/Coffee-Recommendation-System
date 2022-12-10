@@ -1,0 +1,1877 @@
+CSCI 187 - Project Coffee 
+Matthew Rahardja 
+This Text File contains the top 5 similarity results
+for each Coffee Blend based on description 
+
+Barbary Coast Blend
+Hearty, dark roasted Arabica blend with bold, full-bodied mouthfeel.
+
+Blend Index         Blend Name
+76                  Vienna Dark
+72               Riviera French
+47              Midnight Royale
+30    French Roast Dark Italian
+25               Espresso Nuovo
+Name: Coffee Name, dtype: object
+
+Blend Index         Description
+76    Dark roasted Arabica blend of Central and Sout...
+72    Our darkest, richest roast, full-bodied with a...
+47    Dark, brooding, bold Indonesian Arabica coffee...
+30    Dark roasted blend of Colombian and Central Am...
+25    Rich blend of Central and South American Arabi...
+Name: Description, dtype: object
+
+Similarity Score
+[(76, 0.2722756266626301), (72, 0.2427351667234098), (47, 0.2016436545992097), (30, 0.16979533517974882), (25, 0.15874848864848404)]
+
+
+
+Bourbon Pecan
+Light roasted Arabica blend enhanced with the nutty, full flavor of Pecans & a touch of sweet Bourbon.
+
+Blend Index         Blend Name
+74              Vanilla Macadamia Nut
+23    Decaffeinated Vanilla Nut Cream
+31                     French Vanilla
+44                       Kahlua Cream
+4                   Caramel Nut Fudge
+Name: Coffee Name, dtype: object
+
+Blend Index         Description
+74    Light roasted Arabica blend with the light, nu...
+23    A blend of Central American Arabica beans enha...
+31    Our delicious French Vanilla coffee is rich an...
+44    A blend of Colombian and South American Arabic...
+4     A smooth blend of Colombian and Central Americ...
+Name: Description, dtype: object
+
+Similarity Score
+[(74, 0.2818797006403683), (23, 0.27367481765320445), (31, 0.21436813779012215), (44, 0.16324527424121324), (4, 0.1620437764145189)]
+
+
+
+Breakfast Blend
+Well balanced Arabica blend with complex finish, smooth and bright; a wonderful combination of acidity, body and aroma.
+
+Blend Index         Blend Name
+61                     Organic Oak Street Blend
+77                               Westside Blend
+63           Organic Fair Trade Rendezvous Brew
+28                              European Royale
+43    Jamaica Blue Mountain Fancy, Direct Trade
+Name: Coffee Name, dtype: object
+
+Blend Index         Description
+61    Well balanced with complex finish, smooth and ...
+77    Medium-dark after-roast blend of  Central Amer...
+63    Medium-dark roasted Arabica blend with the nua...
+28    Complex blend of Arabica beans from three cont...
+43    Roasted from Arabica beans grown in the Blue M...
+Name: Description, dtype: object
+
+Similarity Score
+[(61, 0.9819520635363539), (77, 0.2223550732656979), (63, 0.21702470985150532), (28, 0.21629838324952905), (43, 0.20096379695911162)]
+
+
+
+Cappuccino Fudge
+A great combination of rich, creamy coffee and smooth, fine chocolate accented with a hint of vanilla.  
+
+Blend Index         Blend Name
+31               French Vanilla
+15       Dark Chocolate Truffle
+6     Chocolate Raspberry Cream
+61     Organic Oak Street Blend
+30    French Roast Dark Italian
+Name: Coffee Name, dtype: object
+
+Blend Index         Description
+31    Our delicious French Vanilla coffee is rich an...
+15    A taste to tempt any chocolate lover! Dark Cho...
+6     Light roasted Arabica coffee is a decadent ric...
+61    Well balanced with complex finish, smooth and ...
+30    Dark roasted blend of Colombian and Central Am...
+Name: Description, dtype: object
+
+Similarity Score
+[(31, 0.2174335537352897), (15, 0.19262920101669284), (6, 0.16616306336080386), (61, 0.16431534877836432), (30, 0.16309143098544243)]
+
+
+
+Caramel Nut Fudge
+A smooth blend of Colombian and Central American Arabica beans with the richness of caramel and fudge flavorings accented with a light nutty taste.
+
+Blend Index         Blend Name
+8                 Cinnamon Frangelico
+23    Decaffeinated Vanilla Nut Cream
+44                       Kahlua Cream
+5             Chocolate Macadamia Nut
+30          French Roast Dark Italian
+Name: Coffee Name, dtype: object
+
+Blend Index         Description
+8     Colombian and Central American Arabica beans s...
+23    A blend of Central American Arabica beans enha...
+44    A blend of Colombian and South American Arabic...
+5     A blend of Colombian and Central American Arab...
+30    Dark roasted blend of Colombian and Central Am...
+Name: Description, dtype: object
+
+Similarity Score
+[(8, 0.287772777628066), (23, 0.27955192367526066), (44, 0.24860824722298863), (5, 0.21166362109704087), (30, 0.2112309502940804)]
+
+
+
+Chocolate Macadamia Nut
+A blend of Colombian and Central American Arabica beans with notes of Macadamia Nuts combined with chocolate.
+
+Blend Index         Blend Name
+25               Espresso Nuovo
+44                 Kahlua Cream
+9     Cinnamon Nut Sugar Cookie
+22       Decaffeinated Hazelnut
+38             Hot Buttered Rum
+Name: Coffee Name, dtype: object
+
+Blend Index         Description
+25    Rich blend of Central and South American Arabi...
+44    A blend of Colombian and South American Arabic...
+9     Light roasted blend of Central American Arabic...
+22    Blend of Central American Arabica beans combin...
+38    A blend of Central and South American Arabica ...
+Name: Description, dtype: object
+
+Similarity Score
+[(25, 0.29235281810356756), (44, 0.2566622050309785), (9, 0.2536447207953272), (22, 0.25275223761600396), (38, 0.23990839640418735)]
+
+
+
+Chocolate Raspberry Cream
+Light roasted Arabica coffee is a decadent rich mixture of dark chocolate with fresh raspberry flavor. 
+
+Blend Index         Blend Name
+60    Organic Fair Trade Millennium Joe
+15               Dark Chocolate Truffle
+42                Italian Roast Classic
+44                         Kahlua Cream
+74                Vanilla Macadamia Nut
+Name: Coffee Name, dtype: object
+
+Blend Index         Description
+60    Rich, dark roasted blend of Arabica coffees wi...
+15    A taste to tempt any chocolate lover! Dark Cho...
+42    Medium-dark roasted Arabica blend, roasted to ...
+44    A blend of Colombian and South American Arabic...
+74    Light roasted Arabica blend with the light, nu...
+Name: Description, dtype: object
+
+Similarity Score
+[(60, 0.27432923563475153), (15, 0.23827692171259088), (42, 0.18706911045326435), (44, 0.1858887066132626), (74, 0.1786752934843071)]
+
+
+
+Cinnamon Bun
+A smooth blend of Colombia and Central American Arabica beans with a rich, baked in cinnamon flavor and aroma of fresh baked cinnamon buns.
+
+Blend Index         Blend Name
+9                             Cinnamon Nut Sugar Cookie
+8                                   Cinnamon Frangelico
+60                    Organic Fair Trade Millennium Joe
+6                             Chocolate Raspberry Cream
+18    Decaffeinated Espresso Roast /Espresso Perfect...
+Name: Coffee Name, dtype: object
+
+Blend Index         Description
+9     Light roasted blend of Central American Arabic...
+8     Colombian and Central American Arabica beans s...
+60    Rich, dark roasted blend of Arabica coffees wi...
+6     Light roasted Arabica coffee is a decadent ric...
+18    A blend of Colombian and Mexican Arabica beans...
+Name: Description, dtype: object
+
+Similarity Score
+[(9, 0.2938968957744538), (8, 0.24533244017697398), (60, 0.20492986113689673), (6, 0.1700584515157618), (18, 0.1532382874689472)]
+
+
+
+Cinnamon Frangelico
+Colombian and Central American Arabica beans spiced with cinnamon, hazelnut & Frangelico liqueur flavorings
+
+Blend Index         Blend Name
+22       Decaffeinated Hazelnut
+36                     Hazelnut
+4             Caramel Nut Fudge
+9     Cinnamon Nut Sugar Cookie
+7                  Cinnamon Bun
+Name: Coffee Name, dtype: object
+
+Blend Index         Description
+22    Blend of Central American Arabica beans combin...
+36    A creamy, smooth blend of Central American Ara...
+4     A smooth blend of Colombian and Central Americ...
+9     Light roasted blend of Central American Arabic...
+7     A smooth blend of Colombia and Central America...
+Name: Description, dtype: object
+
+Similarity Score
+[(22, 0.3458874291268368), (36, 0.30542391177175093), (4, 0.287772777628066), (9, 0.2582885830814679), (7, 0.24533244017697398)]
+
+
+
+Cinnamon Nut Sugar Cookie
+Light roasted blend of Central American Arabica beans, flavored with vanilla, almond with delicious cinnamon notes. 
+
+Blend Index         Blend Name
+75                  Vanilla Nut Cream
+23    Decaffeinated Vanilla Nut Cream
+7                        Cinnamon Bun
+31                     French Vanilla
+8                 Cinnamon Frangelico
+Name: Coffee Name, dtype: object
+
+Blend Index         Description
+75    Light Roasted blend of Central American Arabic...
+23    A blend of Central American Arabica beans enha...
+7     A smooth blend of Colombia and Central America...
+31    Our delicious French Vanilla coffee is rich an...
+8     Colombian and Central American Arabica beans s...
+Name: Description, dtype: object
+
+Similarity Score
+[(75, 0.4369904902795326), (23, 0.35995788216844343), (7, 0.2938968957744538), (31, 0.26384453472927516), (8, 0.2582885830814679)]
+
+
+
+Colombia French
+A 50/50 blend of light roasted Colombian and French Roast Classic Arabica beans combined for a dark, full-bodied flavor with the sweetness of a light roast. A mellow blend for dark roast lovers who don't want to be overwhelmed  
+
+Blend Index         Blend Name
+17    Decaffeinated Colombia/French
+71        President's Private Blend
+29             French Roast Classic
+64       Organic Road Warrior Blend
+72                   Riviera French
+Name: Coffee Name, dtype: object
+
+Blend Index         Description
+17    A decaffeinated 50/50 blend of light roasted C...
+71    Medium after-roast Arabica blend that combines...
+29    Our classic French Roast is a dark roasted ble...
+64    Dark after-roast Arabica blend combining the s...
+72    Our darkest, richest roast, full-bodied with a...
+Name: Description, dtype: object
+
+Similarity Score
+[(17, 0.9848104813312976), (71, 0.3870745161233462), (29, 0.347281538662474), (64, 0.19998382277095778), (72, 0.1983952186057406)]
+
+
+
+Colombia Reserve, Direct Trade
+Our single milled Colombian is full bodied with a soft acidity for a deliciously balanced cup. From our favorite growing region Huila, Colombia.
+
+Blend Index         Blend Name
+12          Colombia Reserve Dark, Direct Trade
+62                                 Organic Peru
+28                              European Royale
+43    Jamaica Blue Mountain Fancy, Direct Trade
+19                Decaffeinated European Royale
+Name: Coffee Name, dtype: object
+
+Blend Index         Description
+12    Our single milled Colombian, is full bodied & ...
+62    Light roasted, single origin Arabica coffee fr...
+28    Complex blend of Arabica beans from three cont...
+43    Roasted from Arabica beans grown in the Blue M...
+19    Complex decaffeinated blend of beans from thre...
+Name: Description, dtype: object
+
+Similarity Score
+[(12, 0.9662920275951982), (62, 0.19180669364162), (28, 0.16411425145113603), (43, 0.15916327753437792), (19, 0.157853508211222)]
+
+
+
+Colombia Reserve Dark, Direct Trade
+Our single milled Colombian, is full bodied & medium-dark roasted  with soft acidity for a deliciously balanced cup. From our favorite growing region Huila, Colombia.
+
+Blend Index         Blend Name
+11               Colombia Reserve, Direct Trade
+62                                 Organic Peru
+63           Organic Fair Trade Rendezvous Brew
+43    Jamaica Blue Mountain Fancy, Direct Trade
+58                        Organic Italian Roast
+Name: Coffee Name, dtype: object
+
+Blend Index         Description
+11    Our single milled Colombian is full bodied wit...
+62    Light roasted, single origin Arabica coffee fr...
+63    Medium-dark roasted Arabica blend with the nua...
+43    Roasted from Arabica beans grown in the Blue M...
+58    Medium-dark roasted Arabica blend of unique or...
+Name: Description, dtype: object
+
+Similarity Score
+[(11, 0.9662920275951982), (62, 0.20036510770255211), (63, 0.17559242022262703), (43, 0.17423964412452345), (58, 0.16208135066389223)]
+
+
+
+Competition Blend
+Medium roasted Arabica blend with beans from our direct-farm relationships in Panama, Costa Rica and Brazil.  
+
+Blend Index         Blend Name
+37                                       Heritage Blend
+51                     Organic Costa Rica, Direct Trade
+70    Panama La Esmeralda Geisha, Direct Trade Aucti...
+14                 Costa Rica La Estrella, Direct Trade
+41                                         Island Blend
+Name: Coffee Name, dtype: object
+
+Blend Index         Description
+37    Heritage Blend is created with Arabica beans f...
+51    Single origin Costa Rican Arabica beans from t...
+70    Light roasted single origin Panama Auction Lot...
+14    From the Doka Estate in Costa Rica,  this full...
+41    Medium-dark roasted complex Arabica blend of H...
+Name: Description, dtype: object
+
+Similarity Score
+[(37, 0.37396105766114884), (51, 0.25030401112778033), (70, 0.2330753846993639), (14, 0.1965574546267711), (41, 0.1674192362271409)]
+
+
+
+Costa Rica La Estrella, Direct Trade
+From the Doka Estate in Costa Rica,  this full-bodied Arabica coffee has tangy aroma, sparkling acidity and rich overtones.
+
+Blend Index         Blend Name
+27                               Ethiopia Moka 
+52     Organic Costa Rica Las Lajas  Honey Miel
+37                               Heritage Blend
+13                            Competition Blend
+43    Jamaica Blue Mountain Fancy, Direct Trade
+Name: Coffee Name, dtype: object
+
+Blend Index         Description
+27    Exotic, light roasted single origin Arabica co...
+52    Grown in the Poas region of Alajeula Costa Ric...
+37    Heritage Blend is created with Arabica beans f...
+13    Medium roasted Arabica blend with beans from o...
+43    Roasted from Arabica beans grown in the Blue M...
+Name: Description, dtype: object
+
+Similarity Score
+[(27, 0.28216450150012146), (52, 0.20599136685341737), (37, 0.20062489006434187), (13, 0.1965574546267711), (43, 0.1748974861249528)]
+
+
+
+Dark Chocolate Truffle
+A taste to tempt any chocolate lover! Dark Chocolate Truffle is a blend of Central and South Americans  with light, smoky tones. Flavored with the rich, smooth taste of dark chocolate truffles, this coffee is sure to be a delicious temptation.
+
+Blend Index         Blend Name
+44                 Kahlua Cream
+6     Chocolate Raspberry Cream
+9     Cinnamon Nut Sugar Cookie
+5       Chocolate Macadamia Nut
+3              Cappuccino Fudge
+Name: Coffee Name, dtype: object
+
+Blend Index         Description
+44    A blend of Colombian and South American Arabic...
+6     Light roasted Arabica coffee is a decadent ric...
+9     Light roasted blend of Central American Arabic...
+5     A blend of Colombian and Central American Arab...
+3     A great combination of rich, creamy coffee and...
+Name: Description, dtype: object
+
+Similarity Score
+[(44, 0.3583712867834424), (6, 0.23827692171259088), (9, 0.19834916040717154), (5, 0.1957341337919625), (3, 0.19262920101669284)]
+
+
+
+Decaffeinated Colombia
+Light roasted, Decaffeinated Colombian is smooth, mellow, well-rounded, with a smooth finish and is simply the best!
+
+Blend Index         Blend Name
+59                        Organic Mexico
+19         Decaffeinated European Royale
+30             French Roast Dark Italian
+34                 Hawaiian Golden Blend
+20    Decaffeinated French Roast Classic
+Name: Coffee Name, dtype: object
+
+Blend Index         Description
+59    Single Origin Mexican Arabica  from Chiapas, M...
+19    Complex decaffeinated blend of beans from thre...
+30    Dark roasted blend of Colombian and Central Am...
+34    A light roasted  blend of Colombian and Kona A...
+20    Dark roasted decaffeinated blend with dark coc...
+Name: Description, dtype: object
+
+Similarity Score
+[(59, 0.2816207239240633), (19, 0.26015887384406855), (30, 0.25665550161253625), (34, 0.25148665318638336), (20, 0.21285174955294264)]
+
+
+
+Decaffeinated Colombia/French
+A decaffeinated 50/50 blend of light roasted Colombian and French Roast Classic Arabica beans combined for a dark, full-bodied flavor with the sweetness of a light roast.  A mellow blend for dark roast lovers who don't want to be overwhelmed.  
+
+Blend Index         Blend Name
+10                       Colombia French
+71             President's Private Blend
+29                  French Roast Classic
+20    Decaffeinated French Roast Classic
+64            Organic Road Warrior Blend
+Name: Coffee Name, dtype: object
+
+Blend Index         Description
+10    A 50/50 blend of light roasted Colombian and F...
+71    Medium after-roast Arabica blend that combines...
+29    Our classic French Roast is a dark roasted ble...
+20    Dark roasted decaffeinated blend with dark coc...
+64    Dark after-roast Arabica blend combining the s...
+Name: Description, dtype: object
+
+Similarity Score
+[(10, 0.9848104813312976), (71, 0.38119504053451175), (29, 0.34200649924766463), (20, 0.20594721786401848), (64, 0.1969461647615398)]
+
+
+
+Decaffeinated Espresso Roast /Espresso Perfection 2 lb. & 1 lb.
+A blend of Colombian and Mexican Arabica beans with rich, complex flavor.
+
+Blend Index         Blend Name
+60    Organic Fair Trade Millennium Joe
+34                Hawaiian Golden Blend
+25                       Espresso Nuovo
+41                         Island Blend
+21    Decaffeinated Moka Java Ethiopian
+Name: Coffee Name, dtype: object
+
+Blend Index         Description
+60    Rich, dark roasted blend of Arabica coffees wi...
+34    A light roasted  blend of Colombian and Kona A...
+25    Rich blend of Central and South American Arabi...
+41    Medium-dark roasted complex Arabica blend of H...
+21    Light roasted Ethiopian Moka blended with rich...
+Name: Description, dtype: object
+
+Similarity Score
+[(60, 0.3732234513690056), (34, 0.34759214316653486), (25, 0.28539448397349393), (41, 0.2427566261520243), (21, 0.23641074327940526)]
+
+
+
+Decaffeinated European Royale
+Complex decaffeinated blend of beans from three continents resulting in a balanced cup. Full bodied yet mellow with a smooth, sweet aftertaste.
+
+Blend Index         Blend Name
+28                       European Royale
+16                Decaffeinated Colombia
+46                        Majestic Blend
+63    Organic Fair Trade Rendezvous Brew
+62                          Organic Peru
+Name: Coffee Name, dtype: object
+
+Blend Index         Description
+28    Complex blend of Arabica beans from three cont...
+16    Light roasted, Decaffeinated Colombian is smoo...
+46    A superb blend of African, Central and South A...
+63    Medium-dark roasted Arabica blend with the nua...
+62    Light roasted, single origin Arabica coffee fr...
+Name: Description, dtype: object
+
+Similarity Score
+[(28, 0.9472170452957953), (16, 0.26015887384406855), (46, 0.21769088312848664), (63, 0.21182582570356254), (62, 0.19969863535683086)]
+
+
+
+Decaffeinated French Roast Classic
+Dark roasted decaffeinated blend with dark cocoa notes, thick body and a strong, smooth flavor.
+
+Blend Index         Blend Name
+29                    French Roast Classic
+60       Organic Fair Trade Millennium Joe
+57                        Organic Hawaiian
+33    Guatemala Antigua Dark, Direct Trade
+16                  Decaffeinated Colombia
+Name: Coffee Name, dtype: object
+
+Blend Index         Description
+29    Our classic French Roast is a dark roasted ble...
+60    Rich, dark roasted blend of Arabica coffees wi...
+57    Medium dark roasted Arabica blend of Hawaiian ...
+33    Medium-Dark roasted, Estate Arabica from Finca...
+16    Light roasted, Decaffeinated Colombian is smoo...
+Name: Description, dtype: object
+
+Similarity Score
+[(29, 0.639323227955993), (60, 0.319323412467263), (57, 0.2439683672691922), (33, 0.24250650161493165), (16, 0.21285174955294264)]
+
+
+
+Decaffeinated Moka Java Ethiopian
+Light roasted Ethiopian Moka blended with rich, full-boded Java Estate - complex in character, rich and creamy in flavor.
+
+Blend Index         Blend Name
+60                    Organic Fair Trade Millennium Joe
+18    Decaffeinated Espresso Roast /Espresso Perfect...
+47                                      Midnight Royale
+74                                Vanilla Macadamia Nut
+43            Jamaica Blue Mountain Fancy, Direct Trade
+Name: Coffee Name, dtype: object
+
+Blend Index         Description
+60    Rich, dark roasted blend of Arabica coffees wi...
+18    A blend of Colombian and Mexican Arabica beans...
+47    Dark, brooding, bold Indonesian Arabica coffee...
+74    Light roasted Arabica blend with the light, nu...
+43    Roasted from Arabica beans grown in the Blue M...
+Name: Description, dtype: object
+
+Similarity Score
+[(60, 0.265969223784336), (18, 0.23641074327940526), (47, 0.20649663603818466), (74, 0.16654286931565832), (43, 0.1627261186183355)]
+
+
+
+Decaffeinated Hazelnut
+Blend of Central American Arabica beans combined with hazelnut oil and toasted hazelnut flavoring.
+
+Blend Index         Blend Name
+36                           Hazelnut
+8                 Cinnamon Frangelico
+5             Chocolate Macadamia Nut
+25                     Espresso Nuovo
+23    Decaffeinated Vanilla Nut Cream
+Name: Coffee Name, dtype: object
+
+Blend Index         Description
+36    A creamy, smooth blend of Central American Ara...
+8     Colombian and Central American Arabica beans s...
+5     A blend of Colombian and Central American Arab...
+25    Rich blend of Central and South American Arabi...
+23    A blend of Central American Arabica beans enha...
+Name: Description, dtype: object
+
+Similarity Score
+[(36, 0.8830153571720355), (8, 0.3458874291268368), (5, 0.25275223761600396), (25, 0.2353664562156558), (23, 0.20867504848755622)]
+
+
+
+Decaffeinated Vanilla Nut Cream
+A blend of Central American Arabica beans enhanced with the distinctive flavor of vanilla, interlaced with the luscious nutty taste of almond flavoring.
+
+Blend Index         Blend Name
+9     Cinnamon Nut Sugar Cookie
+31               French Vanilla
+4             Caramel Nut Fudge
+1                 Bourbon Pecan
+74        Vanilla Macadamia Nut
+Name: Coffee Name, dtype: object
+
+Blend Index         Description
+9     Light roasted blend of Central American Arabic...
+31    Our delicious French Vanilla coffee is rich an...
+4     A smooth blend of Colombian and Central Americ...
+1     Light roasted Arabica blend enhanced with the ...
+74    Light roasted Arabica blend with the light, nu...
+Name: Description, dtype: object
+
+Similarity Score
+[(9, 0.35995788216844343), (31, 0.3484003776306808), (4, 0.27955192367526066), (1, 0.27367481765320445), (74, 0.24361401356969187)]
+
+
+
+Espresso Classico
+Full bodied, harmonious Arabica blend with a velvety smoothness and subtle acidity.
+
+Blend Index         Blend Name
+74                   Vanilla Macadamia Nut
+75                       Vanilla Nut Cream
+63      Organic Fair Trade Rendezvous Brew
+14    Costa Rica La Estrella, Direct Trade
+0                      Barbary Coast Blend
+Name: Coffee Name, dtype: object
+
+Blend Index         Description
+74    Light roasted Arabica blend with the light, nu...
+75    Light Roasted blend of Central American Arabic...
+63    Medium-dark roasted Arabica blend with the nua...
+14    From the Doka Estate in Costa Rica,  this full...
+0     Hearty, dark roasted Arabica blend with bold, ...
+Name: Description, dtype: object
+
+Similarity Score
+[(74, 0.21220079381077867), (75, 0.18749972335410842), (63, 0.1673417129448472), (14, 0.12530577123180398), (0, 0.1207108471557177)]
+
+
+
+Espresso Nuovo
+Rich blend of Central and South American Arabica beans combined with Indonesian beans, roasted to a deep, dark brown.  Complex, full-bodied brew.
+
+Blend Index         Blend Name
+39       House Blend
+46    Majestic Blend
+41      Island Blend
+76       Vienna Dark
+77    Westside Blend
+Name: Coffee Name, dtype: object
+
+Blend Index         Description
+39    Light roasted blend of Central American Arabic...
+46    A superb blend of African, Central and South A...
+41    Medium-dark roasted complex Arabica blend of H...
+76    Dark roasted Arabica blend of Central and Sout...
+77    Medium-dark after-roast blend of  Central Amer...
+Name: Description, dtype: object
+
+Similarity Score
+[(39, 0.5118194235207232), (46, 0.3776865411564316), (41, 0.35047098421167344), (76, 0.3190628122946397), (77, 0.3112235297672871)]
+
+
+
+Ethiopia Mystic Lion (Natural)
+Light roasted Natural Ethiopian from the Limu District in the Daru mountains, this two-time Golden Bean award winner has rich honey flavor with wild blueberry notes & a lemony tang.  
+
+Blend Index         Blend Name
+50              Organic Balthazar Blend
+53           Organic Espresso Maranello
+21    Decaffeinated Moka Java Ethiopian
+60    Organic Fair Trade Millennium Joe
+32      Guatemala Antigua, Direct Trade
+Name: Coffee Name, dtype: object
+
+Blend Index         Description
+50    Two-time Golden Bean award winner!  A mélange ...
+53    Affectionately knows as "liquid gold", our Fou...
+21    Light roasted Ethiopian Moka blended with rich...
+60    Rich, dark roasted blend of Arabica coffees wi...
+32    Light roasted, Estate Arabica from Finca Las S...
+Name: Description, dtype: object
+
+Similarity Score
+[(50, 0.24432056509679367), (53, 0.22339451251891804), (21, 0.15748524183591178), (60, 0.12611864678193233), (32, 0.10383842718681122)]
+
+
+
+Ethiopia Moka 
+Exotic, light roasted single origin Arabica coffee with a sharp tangy quality, distinctive winey acidity and floral overtones
+
+Blend Index         Blend Name
+14    Costa Rica La Estrella, Direct Trade
+62                            Organic Peru
+35                     Hawaiian Kona Fancy
+68                 Organic WP Decaf Mexico
+65                    Organic Sumatra Dark
+Name: Coffee Name, dtype: object
+
+Blend Index         Description
+14    From the Doka Estate in Costa Rica,  this full...
+62    Light roasted, single origin Arabica coffee fr...
+35    Our Single origin Kona is from Mt. Hualalai, l...
+68    Water Processed Decaffeinated light-medium roa...
+65    Single origin Arabica coffee from a variety of...
+Name: Description, dtype: object
+
+Similarity Score
+[(14, 0.28216450150012146), (62, 0.23508442883009698), (35, 0.18673869319824554), (68, 0.16188849200925176), (65, 0.1554852681134099)]
+
+
+
+European Royale
+Complex blend of Arabica beans from three continents resulting in a balanced cup. Full bodied yet mellow with a smooth, sweet aftertaste.
+
+Blend Index         Blend Name
+19         Decaffeinated European Royale
+46                        Majestic Blend
+63    Organic Fair Trade Rendezvous Brew
+62                          Organic Peru
+2                        Breakfast Blend
+Name: Coffee Name, dtype: object
+
+Blend Index         Description
+19    Complex decaffeinated blend of beans from thre...
+46    A superb blend of African, Central and South A...
+63    Medium-dark roasted Arabica blend with the nua...
+62    Light roasted, single origin Arabica coffee fr...
+2     Well balanced Arabica blend with complex finis...
+Name: Description, dtype: object
+
+Similarity Score
+[(19, 0.9472170452957953), (46, 0.236397688226246), (63, 0.23353989589403046), (62, 0.2244370461746331), (2, 0.21629838324952905)]
+
+
+
+French Roast Classic
+Our classic French Roast is a dark roasted blend of Colombian and Central American mild's bursting with dark cocoa notes, thick body and strong, smooth flavor.
+
+Blend Index         Blend Name
+20    Decaffeinated French Roast Classic
+30             French Roast Dark Italian
+10                       Colombia French
+71             President's Private Blend
+17         Decaffeinated Colombia/French
+Name: Coffee Name, dtype: object
+
+Blend Index         Description
+20    Dark roasted decaffeinated blend with dark coc...
+30    Dark roasted blend of Colombian and Central Am...
+10    A 50/50 blend of light roasted Colombian and F...
+71    Medium after-roast Arabica blend that combines...
+17    A decaffeinated 50/50 blend of light roasted C...
+Name: Description, dtype: object
+
+Similarity Score
+[(20, 0.639323227955993), (30, 0.3863998909181847), (10, 0.347281538662474), (71, 0.3444346839573981), (17, 0.34200649924766463)]
+
+
+
+French Roast Dark Italian
+Dark roasted blend of Colombian and Central American mild's, full bodied with a smooth finish and a hint of spice.
+
+Blend Index         Blend Name
+57          Organic Hawaiian
+29      French Roast Classic
+76               Vienna Dark
+38          Hot Buttered Rum
+16    Decaffeinated Colombia
+Name: Coffee Name, dtype: object
+
+Blend Index         Description
+57    Medium dark roasted Arabica blend of Hawaiian ...
+29    Our classic French Roast is a dark roasted ble...
+76    Dark roasted Arabica blend of Central and Sout...
+38    A blend of Central and South American Arabica ...
+16    Light roasted, Decaffeinated Colombian is smoo...
+Name: Description, dtype: object
+
+Similarity Score
+[(57, 0.5019763581433745), (29, 0.3863998909181847), (76, 0.3305092595219191), (38, 0.2711776226570604), (16, 0.25665550161253625)]
+
+
+
+French Vanilla
+Our delicious French Vanilla coffee is rich and sweet in the cup, enhanced with the distinctive silken flavor of the vanilla bean. 
+
+Blend Index         Blend Name
+23    Decaffeinated Vanilla Nut Cream
+75                  Vanilla Nut Cream
+47                    Midnight Royale
+9           Cinnamon Nut Sugar Cookie
+74              Vanilla Macadamia Nut
+Name: Coffee Name, dtype: object
+
+Blend Index         Description
+23    A blend of Central American Arabica beans enha...
+75    Light Roasted blend of Central American Arabic...
+47    Dark, brooding, bold Indonesian Arabica coffee...
+9     Light roasted blend of Central American Arabic...
+74    Light roasted Arabica blend with the light, nu...
+Name: Description, dtype: object
+
+Similarity Score
+[(23, 0.3484003776306808), (75, 0.3101594604642299), (47, 0.28907884710255327), (9, 0.26384453472927516), (74, 0.22523796604657853)]
+
+
+
+Guatemala Antigua, Direct Trade
+Light roasted, Estate Arabica from Finca Las Salinas grown on a small farm in the famous Antigua growing district in  Guatemala.  Lively acidity, complex spiciness, chocolate-laced aftertaste with crisp, smooth flavor notes.
+
+Blend Index         Blend Name
+33         Guatemala Antigua Dark, Direct Trade
+28                              European Royale
+64                   Organic Road Warrior Blend
+21            Decaffeinated Moka Java Ethiopian
+43    Jamaica Blue Mountain Fancy, Direct Trade
+Name: Coffee Name, dtype: object
+
+Blend Index         Description
+33    Medium-Dark roasted, Estate Arabica from Finca...
+28    Complex blend of Arabica beans from three cont...
+64    Dark after-roast Arabica blend combining the s...
+21    Light roasted Ethiopian Moka blended with rich...
+43    Roasted from Arabica beans grown in the Blue M...
+Name: Description, dtype: object
+
+Similarity Score
+[(33, 0.9373569148119919), (28, 0.14273003955794702), (64, 0.1416872419135128), (21, 0.13894892474675377), (43, 0.13519694797193801)]
+
+
+
+Guatemala Antigua Dark, Direct Trade
+Medium-Dark roasted, Estate Arabica from Finca Las Salinas grown on a small farm in the famous Antigua growing district in  Guatemala.  Lively acidity, complex spiciness, cocoa-laced aftertaste with crisp, smooth flavor notes.
+
+Blend Index         Blend Name
+32       Guatemala Antigua, Direct Trade
+20    Decaffeinated French Roast Classic
+29                  French Roast Classic
+57                      Organic Hawaiian
+77                        Westside Blend
+Name: Coffee Name, dtype: object
+
+Blend Index         Description
+32    Light roasted, Estate Arabica from Finca Las S...
+20    Dark roasted decaffeinated blend with dark coc...
+29    Our classic French Roast is a dark roasted ble...
+57    Medium dark roasted Arabica blend of Hawaiian ...
+77    Medium-dark after-roast blend of  Central Amer...
+Name: Description, dtype: object
+
+Similarity Score
+[(32, 0.9373569148119919), (20, 0.24250650161493165), (29, 0.1772160021574461), (57, 0.16057218891817526), (77, 0.15696415753808446)]
+
+
+
+Hawaiian Golden Blend
+A light roasted  blend of Colombian and Kona Arabica beans, rich and rounded with superb fragrance and flavor.
+
+Blend Index         Blend Name
+18    Decaffeinated Espresso Roast /Espresso Perfect...
+64                           Organic Road Warrior Blend
+41                                         Island Blend
+60                    Organic Fair Trade Millennium Joe
+16                               Decaffeinated Colombia
+Name: Coffee Name, dtype: object
+
+Blend Index         Description
+18    A blend of Colombian and Mexican Arabica beans...
+64    Dark after-roast Arabica blend combining the s...
+41    Medium-dark roasted complex Arabica blend of H...
+60    Rich, dark roasted blend of Arabica coffees wi...
+16    Light roasted, Decaffeinated Colombian is smoo...
+Name: Description, dtype: object
+
+Similarity Score
+[(18, 0.34759214316653486), (64, 0.33967068415042484), (41, 0.29059708277548496), (60, 0.28879890673706726), (16, 0.25148665318638336)]
+
+
+
+Hawaiian Kona Fancy
+Our Single origin Kona is from Mt. Hualalai, light roasted with mellow body and balanced sweetness. Slightly spicy with overtones of cinnamon and cloves.
+
+Blend Index         Blend Name
+62             Organic Peru
+27           Ethiopia Moka 
+34    Hawaiian Golden Blend
+10          Colombia French
+41             Island Blend
+Name: Coffee Name, dtype: object
+
+Blend Index         Description
+62    Light roasted, single origin Arabica coffee fr...
+27    Exotic, light roasted single origin Arabica co...
+34    A light roasted  blend of Colombian and Kona A...
+10    A 50/50 blend of light roasted Colombian and F...
+41    Medium-dark roasted complex Arabica blend of H...
+Name: Description, dtype: object
+
+Similarity Score
+[(62, 0.2097207514817598), (27, 0.18673869319824554), (34, 0.1505255517973069), (10, 0.13688725906634827), (41, 0.1350740718446102)]
+
+
+
+Hazelnut
+A creamy, smooth blend of Central American Arabica beans combined with hazelnut oil and toasted Oregon Hazelnut flavoring.
+
+Blend Index         Blend Name
+22             Decaffeinated Hazelnut
+8                 Cinnamon Frangelico
+5             Chocolate Macadamia Nut
+25                     Espresso Nuovo
+23    Decaffeinated Vanilla Nut Cream
+Name: Coffee Name, dtype: object
+
+Blend Index         Description
+22    Blend of Central American Arabica beans combin...
+8     Colombian and Central American Arabica beans s...
+5     A blend of Colombian and Central American Arab...
+25    Rich blend of Central and South American Arabi...
+23    A blend of Central American Arabica beans enha...
+Name: Description, dtype: object
+
+Similarity Score
+[(22, 0.8830153571720355), (8, 0.30542391177175093), (5, 0.22318410737452687), (25, 0.20783219540158354), (23, 0.18426327247313126)]
+
+
+
+Heritage Blend
+Heritage Blend is created with Arabica beans from our direct farm partnerships with beans from Costa Rica, Ethiopia and Guatemala combined to create a rich, full-bodied cup with soft finish.
+
+Blend Index         Blend Name
+13                       Competition Blend
+25                          Espresso Nuovo
+14    Costa Rica La Estrella, Direct Trade
+58                   Organic Italian Roast
+67          Organic WP Decaf Italian Roast
+Name: Coffee Name, dtype: object
+
+Blend Index         Description
+13    Medium roasted Arabica blend with beans from o...
+25    Rich blend of Central and South American Arabi...
+14    From the Doka Estate in Costa Rica,  this full...
+58    Medium-dark roasted Arabica blend of unique or...
+67    Medium-dark roasted Water Processed decaffeina...
+Name: Description, dtype: object
+
+Similarity Score
+[(13, 0.37396105766114884), (25, 0.21097744632194365), (14, 0.20062489006434187), (58, 0.17632698848541914), (67, 0.16002456114777444)]
+
+
+
+Hot Buttered Rum
+A blend of Central and South American Arabica beans with rich, cream buttery notes and a hint of rum.
+
+Blend Index         Blend Name
+44                 Kahlua Cream
+25               Espresso Nuovo
+76                  Vienna Dark
+30    French Roast Dark Italian
+5       Chocolate Macadamia Nut
+Name: Coffee Name, dtype: object
+
+Blend Index         Description
+44    A blend of Colombian and South American Arabic...
+25    Rich blend of Central and South American Arabi...
+76    Dark roasted Arabica blend of Central and Sout...
+30    Dark roasted blend of Colombian and Central Am...
+5     A blend of Colombian and Central American Arab...
+Name: Description, dtype: object
+
+Similarity Score
+[(44, 0.35959787021899203), (25, 0.30673405701106454), (76, 0.2904465469505382), (30, 0.2711776226570604), (5, 0.23990839640418735)]
+
+
+
+House Blend
+Light roasted blend of Central American Arabica beans roasted to a deep, chestnut brown, full-bodied and flavorful. 
+
+Blend Index         Blend Name
+25               Espresso Nuovo
+9     Cinnamon Nut Sugar Cookie
+30    French Roast Dark Italian
+75            Vanilla Nut Cream
+5       Chocolate Macadamia Nut
+Name: Coffee Name, dtype: object
+
+Blend Index         Description
+25    Rich blend of Central and South American Arabi...
+9     Light roasted blend of Central American Arabic...
+30    Dark roasted blend of Colombian and Central Am...
+75    Light Roasted blend of Central American Arabic...
+5     A blend of Colombian and Central American Arab...
+Name: Description, dtype: object
+
+Similarity Score
+[(25, 0.5118194235207232), (9, 0.2470483517105216), (30, 0.23605371451822602), (75, 0.23116113687504908), (5, 0.18129086725367766)]
+
+
+
+Irish Shamrock Cream
+Light roasted blend of high-grown Arabica beans with the smooth, delicious flavor of Irish Cream liqueur - minus the spirits!
+
+Blend Index         Blend Name
+75                    Vanilla Nut Cream
+9             Cinnamon Nut Sugar Cookie
+44                         Kahlua Cream
+60    Organic Fair Trade Millennium Joe
+38                     Hot Buttered Rum
+Name: Coffee Name, dtype: object
+
+Blend Index         Description
+75    Light Roasted blend of Central American Arabic...
+9     Light roasted blend of Central American Arabic...
+44    A blend of Colombian and South American Arabic...
+60    Rich, dark roasted blend of Arabica coffees wi...
+38    A blend of Central and South American Arabica ...
+Name: Description, dtype: object
+
+Similarity Score
+[(75, 0.2154205588629132), (9, 0.19632614742381), (44, 0.1837111775573365), (60, 0.17005922190276004), (38, 0.16483067399614126)]
+
+
+
+Island Blend
+Medium-dark roasted complex Arabica blend of Hawaiian Kona and Indonesian Arabica beans, Italian roasted.
+
+Blend Index         Blend Name
+57                  Organic Hawaiian
+25                    Espresso Nuovo
+58             Organic Italian Roast
+34             Hawaiian Golden Blend
+67    Organic WP Decaf Italian Roast
+Name: Coffee Name, dtype: object
+
+Blend Index         Description
+57    Medium dark roasted Arabica blend of Hawaiian ...
+25    Rich blend of Central and South American Arabi...
+58    Medium-dark roasted Arabica blend of unique or...
+34    A light roasted  blend of Colombian and Kona A...
+67    Medium-dark roasted Water Processed decaffeina...
+Name: Description, dtype: object
+
+Similarity Score
+[(57, 0.37363234202055734), (25, 0.35047098421167344), (58, 0.29802947790066114), (34, 0.29059708277548496), (67, 0.27047496710407104)]
+
+
+
+Italian Roast Classic
+Medium-dark roasted Arabica blend, roasted to a dark chocolate color, brimming with natural oils.  Fantastic  breakfast coffee with smooth elegant flavor - excellent Toddy Cold Brew blend.
+
+Blend Index         Blend Name
+60     Organic Fair Trade Millennium Joe
+20    Decaffeinated French Roast Classic
+6              Chocolate Raspberry Cream
+15                Dark Chocolate Truffle
+41                          Island Blend
+Name: Coffee Name, dtype: object
+
+Blend Index         Description
+60    Rich, dark roasted blend of Arabica coffees wi...
+20    Dark roasted decaffeinated blend with dark coc...
+6     Light roasted Arabica coffee is a decadent ric...
+15    A taste to tempt any chocolate lover! Dark Cho...
+41    Medium-dark roasted complex Arabica blend of H...
+Name: Description, dtype: object
+
+Similarity Score
+[(60, 0.22453156420739065), (20, 0.20150643787626393), (6, 0.18706911045326435), (15, 0.1765217275280319), (41, 0.17414677730240608)]
+
+
+
+Jamaica Blue Mountain Fancy, Direct Trade
+Roasted from Arabica beans grown in the Blue Mountain region of Jamaica, light roasted rich flavor, rich aroma, moderate acidity and evenly balanced.
+
+Blend Index         Blend Name
+60                    Organic Fair Trade Millennium Joe
+2                                       Breakfast Blend
+52             Organic Costa Rica Las Lajas  Honey Miel
+61                             Organic Oak Street Blend
+18    Decaffeinated Espresso Roast /Espresso Perfect...
+Name: Coffee Name, dtype: object
+
+Blend Index         Description
+60    Rich, dark roasted blend of Arabica coffees wi...
+2     Well balanced Arabica blend with complex finis...
+52    Grown in the Poas region of Alajeula Costa Ric...
+61    Well balanced with complex finish, smooth and ...
+18    A blend of Colombian and Mexican Arabica beans...
+Name: Description, dtype: object
+
+Similarity Score
+[(60, 0.289709755768813), (2, 0.20096379695911162), (52, 0.19996707770147007), (61, 0.19290293227984134), (18, 0.19276831534734884)]
+
+
+
+Kahlua Cream
+A blend of Colombian and South American Arabica coffees, light roasted with the rich taste of cream and chocolate.  Naturally sweet.
+
+Blend Index         Blend Name
+38                     Hot Buttered Rum
+15               Dark Chocolate Truffle
+60    Organic Fair Trade Millennium Joe
+5               Chocolate Macadamia Nut
+76                          Vienna Dark
+Name: Coffee Name, dtype: object
+
+Blend Index         Description
+38    A blend of Central and South American Arabica ...
+15    A taste to tempt any chocolate lover! Dark Cho...
+60    Rich, dark roasted blend of Arabica coffees wi...
+5     A blend of Colombian and Central American Arab...
+76    Dark roasted Arabica blend of Central and Sout...
+Name: Description, dtype: object
+
+Similarity Score
+[(38, 0.35959787021899203), (15, 0.3583712867834424), (60, 0.35288505572146284), (5, 0.2566622050309785), (76, 0.25396705562052224)]
+
+
+
+Kenya AA+ Auction Lot
+Light roasted, single origin from Kenya Nyeri Othaya Kiaguthu AA from family-owned farms on the southeastern slopes in Nyeri County, Kenya.
+
+Blend Index         Blend Name
+70    Panama La Esmeralda Geisha, Direct Trade Aucti...
+62                                         Organic Peru
+59                                       Organic Mexico
+27                                       Ethiopia Moka 
+35                                  Hawaiian Kona Fancy
+Name: Coffee Name, dtype: object
+
+Blend Index         Description
+70    Light roasted single origin Panama Auction Lot...
+62    Light roasted, single origin Arabica coffee fr...
+59    Single Origin Mexican Arabica  from Chiapas, M...
+27    Exotic, light roasted single origin Arabica co...
+35    Our Single origin Kona is from Mt. Hualalai, l...
+Name: Description, dtype: object
+
+Similarity Score
+[(70, 0.14303498572477472), (62, 0.11469401677493911), (59, 0.08979758461691612), (27, 0.08040001839906982), (35, 0.07488290115996997)]
+
+
+
+Majestic Blend
+A superb blend of African, Central and South American Arabica beans.  This "regal" dark roast is  a rich, complex brew with the African beans adding a soft, sweet aftertaste.
+
+Blend Index         Blend Name
+25                Espresso Nuovo
+64    Organic Road Warrior Blend
+71     President's Private Blend
+28               European Royale
+38              Hot Buttered Rum
+Name: Coffee Name, dtype: object
+
+Blend Index         Description
+25    Rich blend of Central and South American Arabi...
+64    Dark after-roast Arabica blend combining the s...
+71    Medium after-roast Arabica blend that combines...
+28    Complex blend of Arabica beans from three cont...
+38    A blend of Central and South American Arabica ...
+Name: Description, dtype: object
+
+Similarity Score
+[(25, 0.3776865411564316), (64, 0.2769878729130154), (71, 0.25172930884562883), (28, 0.236397688226246), (38, 0.21899430877118625)]
+
+
+
+Midnight Royale
+Dark, brooding, bold Indonesian Arabica coffee blended with a variety of French Roasted coffees for a full, rich  flavor with silken body
+
+Blend Index         Blend Name
+60    Organic Fair Trade Millennium Joe
+31                       French Vanilla
+76                          Vienna Dark
+21    Decaffeinated Moka Java Ethiopian
+29                 French Roast Classic
+Name: Coffee Name, dtype: object
+
+Blend Index         Description
+60    Rich, dark roasted blend of Arabica coffees wi...
+31    Our delicious French Vanilla coffee is rich an...
+76    Dark roasted Arabica blend of Central and Sout...
+21    Light roasted Ethiopian Moka blended with rich...
+29    Our classic French Roast is a dark roasted ble...
+Name: Description, dtype: object
+
+Similarity Score
+[(60, 0.3821726932841469), (31, 0.28907884710255327), (76, 0.26677490504275136), (21, 0.20649663603818466), (29, 0.20537588770879234)]
+
+
+
+Moka Java Ethiopian
+Light roasted blend of unique Arabica coffees combining Ethiopians with intense floral bouquet together with more balanced Java beans.
+
+Blend Index         Blend Name
+49                       Moka Java Dark
+60    Organic Fair Trade Millennium Joe
+57                     Organic Hawaiian
+64           Organic Road Warrior Blend
+44                         Kahlua Cream
+Name: Coffee Name, dtype: object
+
+Blend Index         Description
+49    Medium-dark roasted blend of unique Arabica co...
+60    Rich, dark roasted blend of Arabica coffees wi...
+57    Medium dark roasted Arabica blend of Hawaiian ...
+64    Dark after-roast Arabica blend combining the s...
+44    A blend of Colombian and South American Arabic...
+Name: Description, dtype: object
+
+Similarity Score
+[(49, 0.952060009653417), (60, 0.21050660898006102), (57, 0.17375101501744394), (64, 0.17209696257796472), (44, 0.1662677647379184)]
+
+
+
+Moka Java Dark
+Medium-dark roasted blend of unique Arabica coffees combining Ethiopians with intense floral bouquet together with more balanced Java beans.
+
+Blend Index         Blend Name
+48                  Moka Java Ethiopian
+60    Organic Fair Trade Millennium Joe
+57                     Organic Hawaiian
+58                Organic Italian Roast
+64           Organic Road Warrior Blend
+Name: Coffee Name, dtype: object
+
+Blend Index         Description
+48    Light roasted blend of unique Arabica coffees ...
+60    Rich, dark roasted blend of Arabica coffees wi...
+57    Medium dark roasted Arabica blend of Hawaiian ...
+58    Medium-dark roasted Arabica blend of unique or...
+64    Dark after-roast Arabica blend combining the s...
+Name: Description, dtype: object
+
+Similarity Score
+[(48, 0.952060009653417), (60, 0.24711122321205709), (57, 0.24547663949072152), (58, 0.20822911259558285), (64, 0.1943007842237365)]
+
+
+
+Organic Balthazar Blend
+Two-time Golden Bean award winner!  A mélange of very special Arabica coffees from Sumatra and Peru.  Roasted to a full dark roasted French Roast with robust body, dark chocolate, cedar, orange zest tones and elegant finish.
+
+Blend Index         Blend Name
+53           Organic Espresso Maranello
+26       Ethiopia Mystic Lion (Natural)
+60    Organic Fair Trade Millennium Joe
+29                 French Roast Classic
+47                      Midnight Royale
+Name: Coffee Name, dtype: object
+
+Blend Index         Description
+53    Affectionately knows as "liquid gold", our Fou...
+26    Light roasted Natural Ethiopian from the Limu ...
+60    Rich, dark roasted blend of Arabica coffees wi...
+29    Our classic French Roast is a dark roasted ble...
+47    Dark, brooding, bold Indonesian Arabica coffee...
+Name: Description, dtype: object
+
+Similarity Score
+[(53, 0.24704981277265836), (26, 0.24432056509679367), (60, 0.18432726318299164), (29, 0.18426275466526676), (47, 0.18199132715837096)]
+
+
+
+Organic Costa Rica, Direct Trade
+Single origin Costa Rican Arabica beans from the La Amistad Coffee Farm.  Roasted to a medium-dark Viennese style roast.
+
+Blend Index         Blend Name
+13                           Competition Blend
+63          Organic Fair Trade Rendezvous Brew
+62                                Organic Peru
+52    Organic Costa Rica Las Lajas  Honey Miel
+65                        Organic Sumatra Dark
+Name: Coffee Name, dtype: object
+
+Blend Index         Description
+13    Medium roasted Arabica blend with beans from o...
+63    Medium-dark roasted Arabica blend with the nua...
+62    Light roasted, single origin Arabica coffee fr...
+52    Grown in the Poas region of Alajeula Costa Ric...
+65    Single origin Arabica coffee from a variety of...
+Name: Description, dtype: object
+
+Similarity Score
+[(13, 0.25030401112778033), (63, 0.24887493955442053), (62, 0.20892711525045893), (52, 0.1880973169827096), (65, 0.17947940907874163)]
+
+
+
+Organic Costa Rica Las Lajas  Honey Miel
+Grown in the Poas region of Alajeula Costa Rica, this light roasted single origin Arabica coffee has notes of lemon verbena, turbinado sugar and rich cherry.
+
+Blend Index         Blend Name
+14         Costa Rica La Estrella, Direct Trade
+62                                 Organic Peru
+43    Jamaica Blue Mountain Fancy, Direct Trade
+51             Organic Costa Rica, Direct Trade
+68                      Organic WP Decaf Mexico
+Name: Coffee Name, dtype: object
+
+Blend Index         Description
+14    From the Doka Estate in Costa Rica,  this full...
+62    Light roasted, single origin Arabica coffee fr...
+43    Roasted from Arabica beans grown in the Blue M...
+51    Single origin Costa Rican Arabica beans from t...
+68    Water Processed Decaffeinated light-medium roa...
+Name: Description, dtype: object
+
+Similarity Score
+[(14, 0.20599136685341737), (62, 0.2045826843358897), (43, 0.19996707770147007), (51, 0.1880973169827096), (68, 0.1744149776417727)]
+
+
+
+Organic Espresso Maranello
+Affectionately knows as "liquid gold", our Four time Golden Bean award-winning Maranello, is dark roasted blend, creamy and full-bodied with spicy middle notes and tangy, sweet finish.
+
+Blend Index         Blend Name
+50               Organic Balthazar Blend
+26        Ethiopia Mystic Lion (Natural)
+30             French Roast Dark Italian
+63    Organic Fair Trade Rendezvous Brew
+20    Decaffeinated French Roast Classic
+Name: Coffee Name, dtype: object
+
+Blend Index         Description
+50    Two-time Golden Bean award winner!  A mélange ...
+26    Light roasted Natural Ethiopian from the Limu ...
+30    Dark roasted blend of Colombian and Central Am...
+63    Medium-dark roasted Arabica blend with the nua...
+20    Dark roasted decaffeinated blend with dark coc...
+Name: Description, dtype: object
+
+Similarity Score
+[(50, 0.24704981277265836), (26, 0.22339451251891804), (30, 0.13719019256146725), (63, 0.11180371421398345), (20, 0.10928380331296204)]
+
+
+
+Organic Fair Trade French Roast
+Fair Trade Arabica beans from a variety of small farmer co-ops, dark roasted with deep, smoky notes that linger after every sip. 
+
+Blend Index         Blend Name
+69    Organic WP Decaf Fair Trade French Roast
+55                        Organic French Roast
+65                        Organic Sumatra Dark
+25                              Espresso Nuovo
+39                                 House Blend
+Name: Coffee Name, dtype: object
+
+Blend Index         Description
+69    Fair Trade Water Processed Decaffeinated  bean...
+55    Arabica beans from a variety of small farmer c...
+65    Single origin Arabica coffee from a variety of...
+25    Rich blend of Central and South American Arabi...
+39    Light roasted blend of Central American Arabic...
+Name: Description, dtype: object
+
+Similarity Score
+[(69, 0.8854056341918917), (55, 0.8767376835769516), (65, 0.7445910729898335), (25, 0.17454263715325727), (39, 0.1552066099880694)]
+
+
+
+Organic French Roast
+Arabica beans from a variety of small farmer co-ops, dark roasted with deep, smoky notes that linger after every sip. 
+
+Blend Index         Blend Name
+54             Organic Fair Trade French Roast
+65                        Organic Sumatra Dark
+69    Organic WP Decaf Fair Trade French Roast
+25                              Espresso Nuovo
+39                                 House Blend
+Name: Coffee Name, dtype: object
+
+Blend Index         Description
+54    Fair Trade Arabica beans from a variety of sma...
+65    Single origin Arabica coffee from a variety of...
+69    Fair Trade Water Processed Decaffeinated  bean...
+25    Rich blend of Central and South American Arabi...
+39    Light roasted blend of Central American Arabic...
+Name: Description, dtype: object
+
+Similarity Score
+[(54, 0.8767376835769516), (65, 0.8492746313264635), (69, 0.7737021577856921), (25, 0.19908193798759827), (39, 0.1770274198262482)]
+
+
+
+Organic Gorilla Vanilla
+Light roasted Arabica blend with rich vanilla certified organic flavoring.  So good, you'll go ape!
+
+Blend Index         Blend Name
+74                Vanilla Macadamia Nut
+23      Decaffeinated Vanilla Nut Cream
+60    Organic Fair Trade Millennium Joe
+9             Cinnamon Nut Sugar Cookie
+31                       French Vanilla
+Name: Coffee Name, dtype: object
+
+Blend Index         Description
+74    Light roasted Arabica blend with the light, nu...
+23    A blend of Central American Arabica beans enha...
+60    Rich, dark roasted blend of Arabica coffees wi...
+9     Light roasted blend of Central American Arabic...
+31    Our delicious French Vanilla coffee is rich an...
+Name: Description, dtype: object
+
+Similarity Score
+[(74, 0.2283633060732912), (23, 0.1862861887697244), (60, 0.1784315747407922), (9, 0.1714996853394718), (31, 0.16954491688194562)]
+
+
+
+Organic Hawaiian
+Medium dark roasted Arabica blend of Hawaiian and Guatemala beans with mild body, floral notes and a hint of spice.
+
+Blend Index         Blend Name
+30    French Roast Dark Italian
+41                 Island Blend
+29         French Roast Classic
+76                  Vienna Dark
+49               Moka Java Dark
+Name: Coffee Name, dtype: object
+
+Blend Index         Description
+30    Dark roasted blend of Colombian and Central Am...
+41    Medium-dark roasted complex Arabica blend of H...
+29    Our classic French Roast is a dark roasted ble...
+76    Dark roasted Arabica blend of Central and Sout...
+49    Medium-dark roasted blend of unique Arabica co...
+Name: Description, dtype: object
+
+Similarity Score
+[(30, 0.5019763581433745), (41, 0.37363234202055734), (29, 0.26918045821519415), (76, 0.2656401915677161), (49, 0.24547663949072152)]
+
+
+
+Organic Italian Roast
+Medium-dark roasted Arabica blend of unique organic beans from Sumatra & Guatemala,  Italian roasted for a full-bodied, round mouth feel -  forward in the front yet soft in the throat.
+
+Blend Index         Blend Name
+67    Organic WP Decaf Italian Roast
+66       Organic WP Decaf Dark Roast
+41                      Island Blend
+57                  Organic Hawaiian
+49                    Moka Java Dark
+Name: Coffee Name, dtype: object
+
+Blend Index         Description
+67    Medium-dark roasted Water Processed decaffeina...
+66    Using the natural Water Process for decaffeina...
+41    Medium-dark roasted complex Arabica blend of H...
+57    Medium dark roasted Arabica blend of Hawaiian ...
+49    Medium-dark roasted blend of unique Arabica co...
+Name: Description, dtype: object
+
+Similarity Score
+[(67, 0.9075443443021615), (66, 0.5092667716256983), (41, 0.29802947790066114), (57, 0.2155895370880777), (49, 0.20822911259558285)]
+
+
+
+Organic Mexico
+Single Origin Mexican Arabica  from Chiapas, Mexico, light roasted for a sweet enticing bouquet and smooth, rounded finish. 
+
+Blend Index         Blend Name
+68                              Organic WP Decaf Mexico
+16                               Decaffeinated Colombia
+62                                         Organic Peru
+18    Decaffeinated Espresso Roast /Espresso Perfect...
+34                                Hawaiian Golden Blend
+Name: Coffee Name, dtype: object
+
+Blend Index         Description
+68    Water Processed Decaffeinated light-medium roa...
+16    Light roasted, Decaffeinated Colombian is smoo...
+62    Light roasted, single origin Arabica coffee fr...
+18    A blend of Colombian and Mexican Arabica beans...
+34    A light roasted  blend of Colombian and Kona A...
+Name: Description, dtype: object
+
+Similarity Score
+[(68, 0.3654873166180682), (16, 0.2816207239240633), (62, 0.23710292769704036), (18, 0.20841596549933533), (34, 0.180387649311835)]
+
+
+
+Organic Fair Trade Millennium Joe
+Rich, dark roasted blend of Arabica coffees with smooth, rich flavor.
+
+Blend Index         Blend Name
+47                                      Midnight Royale
+18    Decaffeinated Espresso Roast /Espresso Perfect...
+44                                         Kahlua Cream
+20                   Decaffeinated French Roast Classic
+43            Jamaica Blue Mountain Fancy, Direct Trade
+Name: Coffee Name, dtype: object
+
+Blend Index         Description
+47    Dark, brooding, bold Indonesian Arabica coffee...
+18    A blend of Colombian and Mexican Arabica beans...
+44    A blend of Colombian and South American Arabic...
+20    Dark roasted decaffeinated blend with dark coc...
+43    Roasted from Arabica beans grown in the Blue M...
+Name: Description, dtype: object
+
+Similarity Score
+[(47, 0.3821726932841469), (18, 0.3732234513690056), (44, 0.35288505572146284), (20, 0.319323412467263), (43, 0.289709755768813)]
+
+
+
+Organic Oak Street Blend
+Well balanced with complex finish, smooth and bright; a wonderful combination of acidity, body and aroma.
+
+Blend Index         Blend Name
+2                               Breakfast Blend
+77                               Westside Blend
+43    Jamaica Blue Mountain Fancy, Direct Trade
+63           Organic Fair Trade Rendezvous Brew
+28                              European Royale
+Name: Coffee Name, dtype: object
+
+Blend Index         Description
+2     Well balanced Arabica blend with complex finis...
+77    Medium-dark after-roast blend of  Central Amer...
+43    Roasted from Arabica beans grown in the Blue M...
+63    Medium-dark roasted Arabica blend with the nua...
+28    Complex blend of Arabica beans from three cont...
+Name: Description, dtype: object
+
+Similarity Score
+[(2, 0.9819520635363539), (77, 0.19408225723104455), (43, 0.19290293227984134), (63, 0.18941886079734654), (28, 0.18416522258861695)]
+
+
+
+Organic Peru
+Light roasted, single origin Arabica coffee from Cajamarca Peru, well balanced and smooth in the cup.
+
+Blend Index         Blend Name
+59          Organic Mexico
+27          Ethiopia Moka 
+28         European Royale
+65    Organic Sumatra Dark
+35     Hawaiian Kona Fancy
+Name: Coffee Name, dtype: object
+
+Blend Index         Description
+59    Single Origin Mexican Arabica  from Chiapas, M...
+27    Exotic, light roasted single origin Arabica co...
+28    Complex blend of Arabica beans from three cont...
+65    Single origin Arabica coffee from a variety of...
+35    Our Single origin Kona is from Mt. Hualalai, l...
+Name: Description, dtype: object
+
+Similarity Score
+[(59, 0.23710292769704036), (27, 0.23508442883009698), (28, 0.2244370461746331), (65, 0.2218062918933568), (35, 0.2097207514817598)]
+
+
+
+Organic Fair Trade Rendezvous Brew
+Medium-dark roasted Arabica blend with the nuanced flavors of a Viennese roast with bright, sweet subtle notes and a well-balanced cup. 
+
+Blend Index         Blend Name
+75                   Vanilla Nut Cream
+51    Organic Costa Rica, Direct Trade
+28                     European Royale
+2                      Breakfast Blend
+19       Decaffeinated European Royale
+Name: Coffee Name, dtype: object
+
+Blend Index         Description
+75    Light Roasted blend of Central American Arabic...
+51    Single origin Costa Rican Arabica beans from t...
+28    Complex blend of Arabica beans from three cont...
+2     Well balanced Arabica blend with complex finis...
+19    Complex decaffeinated blend of beans from thre...
+Name: Description, dtype: object
+
+Similarity Score
+[(75, 0.37210107642985113), (51, 0.24887493955442053), (28, 0.23353989589403046), (2, 0.21702470985150532), (19, 0.21182582570356254)]
+
+
+
+Organic Road Warrior Blend
+Dark after-roast Arabica blend combining the superb body of Indonesian beans with the crisp acidity of Central American's. Smooth and rounded.
+
+Blend Index         Blend Name
+77           Westside Blend
+34    Hawaiian Golden Blend
+25           Espresso Nuovo
+29     French Roast Classic
+46           Majestic Blend
+Name: Coffee Name, dtype: object
+
+Blend Index         Description
+77    Medium-dark after-roast blend of  Central Amer...
+34    A light roasted  blend of Colombian and Kona A...
+25    Rich blend of Central and South American Arabi...
+29    Our classic French Roast is a dark roasted ble...
+46    A superb blend of African, Central and South A...
+Name: Description, dtype: object
+
+Similarity Score
+[(77, 0.5497140164072051), (34, 0.33967068415042484), (25, 0.2980057944807436), (29, 0.28959171649968457), (46, 0.2769878729130154)]
+
+
+
+Organic Sumatra Dark
+Single origin Arabica coffee from a variety of small farmer co-ops, dark roasted for deep, syrupy  smoky notes that linger after every sip.
+
+Blend Index         Blend Name
+55                        Organic French Roast
+54             Organic Fair Trade French Roast
+69    Organic WP Decaf Fair Trade French Roast
+62                                Organic Peru
+73                          Sumatra Mandheling
+Name: Coffee Name, dtype: object
+
+Blend Index         Description
+55    Arabica beans from a variety of small farmer c...
+54    Fair Trade Arabica beans from a variety of sma...
+69    Fair Trade Water Processed Decaffeinated  bean...
+62    Light roasted, single origin Arabica coffee fr...
+73    Single Origin, Gayo Mountain Sumatra - natural...
+Name: Description, dtype: object
+
+Similarity Score
+[(55, 0.8492746313264635), (54, 0.7445910729898335), (69, 0.656838960918229), (62, 0.2218062918933568), (73, 0.18459382621860257)]
+
+
+
+Organic WP Decaf Dark Roast
+Using the natural Water Process for decaffeination, this Arabica blend offers a complex richness without the caffeine.  Italian roasted to a medium-dark with full-boded, round mouth feel, forward in the front yet soft in the throat.
+
+Blend Index         Blend Name
+67    Organic WP Decaf Italian Roast
+58             Organic Italian Roast
+41                      Island Blend
+71         President's Private Blend
+42             Italian Roast Classic
+Name: Coffee Name, dtype: object
+
+Blend Index         Description
+67    Medium-dark roasted Water Processed decaffeina...
+58    Medium-dark roasted Arabica blend of unique or...
+41    Medium-dark roasted complex Arabica blend of H...
+71    Medium after-roast Arabica blend that combines...
+42    Medium-dark roasted Arabica blend, roasted to ...
+Name: Description, dtype: object
+
+Similarity Score
+[(67, 0.5158936664495793), (58, 0.5092667716256983), (41, 0.24285783402429995), (71, 0.15967337298418793), (42, 0.1350321252220029)]
+
+
+
+Organic WP Decaf Italian Roast
+Medium-dark roasted Water Processed decaffeinated blend of unique organic Arabica beans from Sumatra & Guatemala,  Italian roasted for a full-bodied, round mouth feel -  forward in the front yet soft in the throat. 
+
+Blend Index         Blend Name
+58                       Organic Italian Roast
+66                 Organic WP Decaf Dark Roast
+41                                Island Blend
+69    Organic WP Decaf Fair Trade French Roast
+68                     Organic WP Decaf Mexico
+Name: Coffee Name, dtype: object
+
+Blend Index         Description
+58    Medium-dark roasted Arabica blend of unique or...
+66    Using the natural Water Process for decaffeina...
+41    Medium-dark roasted complex Arabica blend of H...
+69    Fair Trade Water Processed Decaffeinated  bean...
+68    Water Processed Decaffeinated light-medium roa...
+Name: Description, dtype: object
+
+Similarity Score
+[(58, 0.9075443443021615), (66, 0.5158936664495793), (41, 0.27047496710407104), (69, 0.2405389625733083), (68, 0.20470190158960358)]
+
+
+
+Organic WP Decaf Mexico
+Water Processed Decaffeinated light-medium roasted, single origin Mexican grown along the Sierra Madres in Chiapas Mexico.  A balance of rich taste, full body and mild acidity make this coffee a must!
+
+Blend Index         Blend Name
+59                                       Organic Mexico
+67                       Organic WP Decaf Italian Roast
+69             Organic WP Decaf Fair Trade French Roast
+62                                         Organic Peru
+18    Decaffeinated Espresso Roast /Espresso Perfect...
+Name: Coffee Name, dtype: object
+
+Blend Index         Description
+59    Single Origin Mexican Arabica  from Chiapas, M...
+67    Medium-dark roasted Water Processed decaffeina...
+69    Fair Trade Water Processed Decaffeinated  bean...
+62    Light roasted, single origin Arabica coffee fr...
+18    A blend of Colombian and Mexican Arabica beans...
+Name: Description, dtype: object
+
+Similarity Score
+[(59, 0.3654873166180682), (67, 0.20470190158960358), (69, 0.18448842228302156), (62, 0.18396721590046677), (18, 0.17873397817882897)]
+
+
+
+Organic WP Decaf Fair Trade French Roast
+Fair Trade Water Processed Decaffeinated  beans from a variety of small farmer co-ops, dark roasted with deep, smoky notes that linger after every sip. 
+
+Blend Index         Blend Name
+54       Organic Fair Trade French Roast
+55                  Organic French Roast
+65                  Organic Sumatra Dark
+67        Organic WP Decaf Italian Roast
+20    Decaffeinated French Roast Classic
+Name: Coffee Name, dtype: object
+
+Blend Index         Description
+54    Fair Trade Arabica beans from a variety of sma...
+55    Arabica beans from a variety of small farmer c...
+65    Single origin Arabica coffee from a variety of...
+67    Medium-dark roasted Water Processed decaffeina...
+20    Dark roasted decaffeinated blend with dark coc...
+Name: Description, dtype: object
+
+Similarity Score
+[(54, 0.8854056341918917), (55, 0.7737021577856921), (65, 0.656838960918229), (67, 0.2405389625733083), (20, 0.20103363677986053)]
+
+
+
+Panama La Esmeralda Geisha, Direct Trade Auction Lot
+Light roasted single origin Panama Auction Lot from the Peterson Family in Boquete Panama. 
+
+Blend Index         Blend Name
+13        Competition Blend
+62             Organic Peru
+45    Kenya AA+ Auction Lot
+59           Organic Mexico
+27           Ethiopia Moka 
+Name: Coffee Name, dtype: object
+
+Blend Index         Description
+13    Medium roasted Arabica blend with beans from o...
+62    Light roasted, single origin Arabica coffee fr...
+45    Light roasted, single origin from Kenya Nyeri ...
+59    Single Origin Mexican Arabica  from Chiapas, M...
+27    Exotic, light roasted single origin Arabica co...
+Name: Description, dtype: object
+
+Similarity Score
+[(13, 0.2330753846993639), (62, 0.15996890412032524), (45, 0.14303498572477472), (59, 0.12524473035073783), (27, 0.11213752204520797)]
+
+
+
+President's Private Blend
+Medium after-roast Arabica blend that combines Colombian with the richness of classic French Roast beans for a full-flavored brew, soft and smooth.
+
+Blend Index         Blend Name
+10                  Colombia French
+17    Decaffeinated Colombia/French
+29             French Roast Classic
+46                   Majestic Blend
+4                 Caramel Nut Fudge
+Name: Coffee Name, dtype: object
+
+Blend Index         Description
+10    A 50/50 blend of light roasted Colombian and F...
+17    A decaffeinated 50/50 blend of light roasted C...
+29    Our classic French Roast is a dark roasted ble...
+46    A superb blend of African, Central and South A...
+4     A smooth blend of Colombian and Central Americ...
+Name: Description, dtype: object
+
+Similarity Score
+[(10, 0.3870745161233462), (17, 0.38119504053451175), (29, 0.3444346839573981), (46, 0.25172930884562883), (4, 0.2079502543059126)]
+
+
+
+Riviera French
+Our darkest, richest roast, full-bodied with a rich, bold flavor and smooth finish.
+
+Blend Index         Blend Name
+60    Organic Fair Trade Millennium Joe
+0                   Barbary Coast Blend
+30            French Roast Dark Italian
+10                      Colombia French
+47                      Midnight Royale
+Name: Coffee Name, dtype: object
+
+Blend Index         Description
+60    Rich, dark roasted blend of Arabica coffees wi...
+0     Hearty, dark roasted Arabica blend with bold, ...
+30    Dark roasted blend of Colombian and Central Am...
+10    A 50/50 blend of light roasted Colombian and F...
+47    Dark, brooding, bold Indonesian Arabica coffee...
+Name: Description, dtype: object
+
+Similarity Score
+[(60, 0.27064558031538244), (0, 0.2427351667234098), (30, 0.2093054921222866), (10, 0.1983952186057406), (47, 0.19609144106312687)]
+
+
+
+Sumatra Mandheling
+Single Origin, Gayo Mountain Sumatra - naturally low in acid, smooth with a syrupy richness and magnificently heavy body.
+
+Blend Index         Blend Name
+77          Westside Blend
+65    Organic Sumatra Dark
+62            Organic Peru
+44            Kahlua Cream
+59          Organic Mexico
+Name: Coffee Name, dtype: object
+
+Blend Index         Description
+77    Medium-dark after-roast blend of  Central Amer...
+65    Single origin Arabica coffee from a variety of...
+62    Light roasted, single origin Arabica coffee fr...
+44    A blend of Colombian and South American Arabic...
+59    Single Origin Mexican Arabica  from Chiapas, M...
+Name: Description, dtype: object
+
+Similarity Score
+[(77, 0.2543558250877877), (65, 0.18459382621860257), (62, 0.14448365526884363), (44, 0.11564793059492909), (59, 0.11312083772621202)]
+
+
+
+Vanilla Macadamia Nut
+Light roasted Arabica blend with the light, nutty flavor of macadamia nut and the rich smoothness of vanilla
+
+Blend Index         Blend Name
+1                         Bourbon Pecan
+60    Organic Fair Trade Millennium Joe
+23      Decaffeinated Vanilla Nut Cream
+56              Organic Gorilla Vanilla
+9             Cinnamon Nut Sugar Cookie
+Name: Coffee Name, dtype: object
+
+Blend Index         Description
+1     Light roasted Arabica blend enhanced with the ...
+60    Rich, dark roasted blend of Arabica coffees wi...
+23    A blend of Central American Arabica beans enha...
+56    Light roasted Arabica blend with rich vanilla ...
+9     Light roasted blend of Central American Arabic...
+Name: Description, dtype: object
+
+Similarity Score
+[(1, 0.2818797006403683), (60, 0.26596255371759636), (23, 0.24361401356969187), (56, 0.2283633060732912), (9, 0.22822403374544586)]
+
+
+
+Vanilla Nut Cream
+Light Roasted blend of Central American Arabica beans with the subtle flavors of vanilla and almonds for a delicious, smooth cup.
+
+Blend Index         Blend Name
+9              Cinnamon Nut Sugar Cookie
+63    Organic Fair Trade Rendezvous Brew
+31                        French Vanilla
+76                           Vienna Dark
+39                           House Blend
+Name: Coffee Name, dtype: object
+
+Blend Index         Description
+9     Light roasted blend of Central American Arabic...
+63    Medium-dark roasted Arabica blend with the nua...
+31    Our delicious French Vanilla coffee is rich an...
+76    Dark roasted Arabica blend of Central and Sout...
+39    Light roasted blend of Central American Arabic...
+Name: Description, dtype: object
+
+Similarity Score
+[(9, 0.4369904902795326), (63, 0.37210107642985113), (31, 0.3101594604642299), (76, 0.23801022233001032), (39, 0.23116113687504908)]
+
+
+
+Vienna Dark
+Dark roasted Arabica blend of Central and South American mild's, rich in the cup with semi-bold body.
+
+Blend Index         Blend Name
+29         French Roast Classic
+30    French Roast Dark Italian
+25               Espresso Nuovo
+38             Hot Buttered Rum
+0           Barbary Coast Blend
+Name: Coffee Name, dtype: object
+
+Blend Index         Description
+29    Our classic French Roast is a dark roasted ble...
+30    Dark roasted blend of Colombian and Central Am...
+25    Rich blend of Central and South American Arabi...
+38    A blend of Central and South American Arabica ...
+0     Hearty, dark roasted Arabica blend with bold, ...
+Name: Description, dtype: object
+
+Similarity Score
+[(29, 0.3325907531543312), (30, 0.3305092595219191), (25, 0.3190628122946397), (38, 0.2904465469505382), (0, 0.2722756266626301)]
+
+
+
+Westside Blend
+Medium-dark after-roast blend of  Central American and Indonesian Arabica beans with rich, heavy body, low acidity and a crisp, smoky finish.
+
+Blend Index         Blend Name
+64    Organic Road Warrior Blend
+25                Espresso Nuovo
+41                  Island Blend
+76                   Vienna Dark
+73            Sumatra Mandheling
+Name: Coffee Name, dtype: object
+
+Blend Index         Description
+64    Dark after-roast Arabica blend combining the s...
+25    Rich blend of Central and South American Arabi...
+41    Medium-dark roasted complex Arabica blend of H...
+76    Dark roasted Arabica blend of Central and Sout...
+73    Single Origin, Gayo Mountain Sumatra - natural...
+Name: Description, dtype: object
+
+Similarity Score
+[(64, 0.5497140164072051), (25, 0.3112235297672871), (41, 0.2697783373664805), (76, 0.256310559690866), (73, 0.2543558250877877)]
+
+
+
